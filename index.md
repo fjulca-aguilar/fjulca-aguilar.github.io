@@ -1,8 +1,6 @@
-
+<p align="center">
 <img src="images/myphoto.jpeg" width="200"/>
-
-## Frank Julca-Aguilar
-
+</p>
 I am a Senior Computer Vision Researcher at <a href="https://algolux.com"> Algolux</a>. I received my PhD from <a href="https://www5.usp.br"> University of Sao Paulo </a> and <a href="https://english.univ-nantes.fr">  University of Nantes </a>. I study and build robust and scalable Machine Learning Methods for Computer Vision. My work lies at the intersection of Machine Learning, Image Processing, and Computer Vision.
 
 
